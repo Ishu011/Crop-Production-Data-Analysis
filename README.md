@@ -10,9 +10,7 @@ The **Crop Production Data Analysis** project focuses on analyzing and visualizi
 ## Features
 
 - **Data Visualization**: Create detailed plots to visualize crop production, area of cultivation, and the relationships between them.
-- 
 - **Machine Learning Models**: Implement and compare different regression models including Random Forest and Linear Regression.
-- 
 - **Model Evaluation**: Assess model performance using metrics such as Root Mean Squared Error (RMSE) to determine the effectiveness of predictions.
 
 ## Getting Started
@@ -22,13 +20,9 @@ The **Crop Production Data Analysis** project focuses on analyzing and visualizi
 To run this project, you need to have Python 3.x installed along with the following libraries:
 
 - `numpy` - For numerical operations
-- 
 - `pandas` - For data manipulation and analysis
-- 
 - `matplotlib` - For plotting graphs
-- 
 - `seaborn` - For advanced data visualization
-- 
 - `scikit-learn` - For machine learning algorithms and evaluation
 
 ### Installation
@@ -38,7 +32,7 @@ To run this project, you need to have Python 3.x installed along with the follow
     ```bash
     
     git clone https://github.com/Ishu011/crop-production-data-analysis.git
-    
+
     cd crop-production-data-analysis
     ```
 
@@ -61,17 +55,13 @@ To run this project, you need to have Python 3.x installed along with the follow
    This script performs the following:
    
    - Loads and preprocesses the data
-   - 
    - Generates visualizations for exploratory analysis
-   - 
    - Trains Random Forest and Linear Regression models
-   - 
    - Evaluates model performance and generates plots for comparison
 
 ### Results
 
 - **Data Visualizations**: Includes bar plots, scatter plots, and histograms to visualize crop production and area data.
-- 
 - **Model Performance**: Compares the RMSE of Random Forest and Linear Regression models to assess their predictive accuracy.
 
 ### Contributing
